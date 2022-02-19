@@ -9,5 +9,6 @@ def test_sum_numbers():
 	
 def test_sum_numbers2():
 	assert sum_numbers(1, 2) == 3
+	assert sum_numbers(2, 2) == 4
 	
 	
